@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = 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
+openai.api_key = sk-z3z5mQEDEw6J6sB9E9Pv.......... #sua API
 
 def generate_ai_news(user):
   completion = openai.ChatCompletion.create(
